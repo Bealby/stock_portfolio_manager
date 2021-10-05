@@ -6,20 +6,15 @@ Pocket Watches can be traced back to Italy in the late 15th
 
 ---
 
-## Commands
-
----
-
 ## Database Relationship Diagram
 
 ![Database Relationship Diagram](/documentation/database_relationship_diagram.png/)
 
 ---
 
-### Start App
+## Commands
 
-- `python3 manage.py runserver
-- `/graphql
+---
 
 ***A query for fetching all Instruments:***
 
